@@ -148,6 +148,9 @@ img {
 .entrada {
     border-bottom: 1PX solid var(--gris);
     margin-bottom: 2rem;
+    font-size: 1.8rem;
+    font-weight: 400;
+    text-align: justify;
 }
 
 .entrada:last-of-type {
@@ -206,6 +209,7 @@ img {
 .widget-curso__info,
 .curso__info {
     font-weight: 400;
+    text-align: justify;
 }
 
 .widget-curso__label,
