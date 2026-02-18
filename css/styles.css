@@ -241,6 +241,7 @@ img {
 }
 
 /* Cursos y Talleres */
+/* La Fuente de esta área esta arriba en "Widgets Cursos" */
 .curso {
     padding: 3rem 0;
     border-bottom: 1px solid var(--gris);
@@ -258,4 +259,10 @@ img {
     border: none;
 }
 
-/* La Fuente de esta área esta arriba en "Widgets Cursos" */
+/* Contacto */
+.contacto-bg {
+    background-image: url(../img/contacto.jpg);
+    height: 40rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
