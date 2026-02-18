@@ -299,3 +299,8 @@ img {
 .campo__field--textarea {
     height: 20rem;
 }
+
+.p-footer {
+    color: var(--blanco);
+    text-align: center;
+}
